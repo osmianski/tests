@@ -1,0 +1,11 @@
+{
+  "name": "osmianski/tests",
+  "autoload": {
+    "psr-4": {
+      "Osmianski\\Tests\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1"
+  }
+}
